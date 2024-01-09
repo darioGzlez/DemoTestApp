@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DemoTestApp</string>
+
+    <!-- Contacts List -->
+    <string name="contacts_list_top_bar_title">CONTACTOS</string>
+    <string name="contacts_list_top_bar_button_back_content_description">Atrás</string>
+    <string name="contacts_list_top_bar_button_sub_menu_content_description">Opciones</string>
+    <string name="contacts_list_contact_image_content_description">Fotografía del contacto</string>
+    <string name="contacts_list_top_app_bar_menu_search">Buscar</string>
+    <string name="contacts_list_top_app_bar_menu_search_prompt">Buscar contactos…</string>
+    <string name="contacts_list_top_app_bar_menu_search_icon">Icono lupa</string>
+    <string name="contacts_list_empty_state_logo">Logo Stradivarius</string>
+    <string name="contacts_list_empty_state_text">¡UPS!\nNo hemos encontrado ningún resultado</string>
+    <string name="contacts_list_error_state_text">¡UPS!\nParece que algo no ha ido bien</string>
+
+    <!-- Contact Detail -->
+    <string name="contact_detail_name_and_surname_label">Nombre y apellidos</string>
+    <string name="contact_detail_email_label">Email</string>
+    <string name="contact_detail_gender_label">Género</string>
+    <string name="contact_detail_date_of_register_label">Fecha de registro</string>
+    <string name="contact_detail_phone_label">Teléfono</string>
+    <string name="contact_detail_location_label">Dirección</string>
+    <string name="contact_detail_gender_male">Hombre</string>
+    <string name="contact_detail_gender_female">Mujer</string>
+</resources>
